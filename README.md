@@ -12,7 +12,6 @@ Data Analyst with over 3 years of experience in SQL, Power BI, Python, and Advan
 * ✉️  You can contact me at [sandeepkumarsahoo04@gmail.com](mailto:sandeepkumarsahoo04@gmail.com)
 * 🧠  I'm learning Data Science and Generative AI
 * 🤝  I'm open to collaborating on Projects
-- 📄 Resume [C:\Users\321sa\OneDrive\Desktop\My_Details\Resume](C:\Users\321sa\OneDrive\Desktop\My_Details\Resume)
 
 
 <a href="https://www.github.com/SandeepgithubS" target="_blank" rel="noreferrer"><img
