@@ -12,7 +12,7 @@ Data Analyst with over 3 years of experience in SQL, Power BI, Python, and Advan
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/SandeepgithubS" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SandeepgithubS?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
+src="https://img.shields.io/github/followers/SandeepgithubS?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
 
 ### Skills
 
@@ -30,8 +30,8 @@ src="https://img.shields.io/github/followers/SandeepgithubS?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SandeepgithubS"><img src="https://github-readme-stats.vercel.app/api?username=SandeepgithubS&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="SandeepgithubS's GitHub stats" /></a>
+<a href="http://www.github.com/SandeepgithubS"><img src="https://github-readme-stats.vercel.app/api?username=SandeepgithubS&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="SandeepgithubS's GitHub stats" /></a>
 
 <a href="http://www.github.com/SandeepgithubS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepgithubS&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/SandeepgithubS"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SandeepgithubS&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/SandeepgithubS"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SandeepgithubS&bg_color=181824&color=ffffff&line=ec4899&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
