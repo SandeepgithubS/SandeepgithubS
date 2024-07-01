@@ -5,6 +5,7 @@ Data Analyst
 ------------
 
 Data Analyst with over 3 years of experience in SQL, Power BI, Python, and Advanced Excel. Expertise in transforming complex data into actionable insights, driving strategic business decisions and success.
+
 <image align="right" alt="Artificial Intelligence" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*nhFc1pNVP-o25Bvt.gif">
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sandeepkumarsahoo04@gmail.com](mailto:sandeepkumarsahoo04@gmail.com)
