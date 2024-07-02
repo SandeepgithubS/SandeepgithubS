@@ -1,4 +1,4 @@
-Hi 👋 My name is Sandeep Kumar Sahoo
+Hi 👋 My name is Sandeep
 ====================================
 
 Data Analyst
